@@ -1,0 +1,14 @@
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Calculator/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
