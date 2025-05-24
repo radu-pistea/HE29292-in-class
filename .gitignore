@@ -5,3 +5,4 @@
 /Tests
 /in-class.sln
 /obj
+*.DS_Store
