@@ -1,0 +1,15 @@
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.AssemblyInfoInputs.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.AssemblyInfo.cs
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.csproj.CoreCompileInputs.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.sourcelink.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/bin/Debug/net8.0/NewCalculator
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/bin/Debug/net8.0/NewCalculator.deps.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/bin/Debug/net8.0/NewCalculator.runtimeconfig.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/bin/Debug/net8.0/NewCalculator.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/bin/Debug/net8.0/NewCalculator.pdb
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/refint/NewCalculator.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.pdb
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/NewCalculator.genruntimeconfig.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/NewCalculator/obj/Debug/net8.0/ref/NewCalculator.dll

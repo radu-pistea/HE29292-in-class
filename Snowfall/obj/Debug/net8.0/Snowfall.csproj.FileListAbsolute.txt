@@ -1,0 +1,15 @@
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/bin/Debug/net8.0/Snowfall
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/bin/Debug/net8.0/Snowfall.deps.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/bin/Debug/net8.0/Snowfall.runtimeconfig.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/bin/Debug/net8.0/Snowfall.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/bin/Debug/net8.0/Snowfall.pdb
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.AssemblyInfoInputs.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.AssemblyInfo.cs
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.csproj.CoreCompileInputs.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.sourcelink.json
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/refint/Snowfall.dll
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.pdb
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/Snowfall.genruntimeconfig.cache
+/Users/radupistea-nae/Library/Mobile Documents/com~apple~CloudDocs/—UNI—/CTF3301/in-class/Snowfall/obj/Debug/net8.0/ref/Snowfall.dll

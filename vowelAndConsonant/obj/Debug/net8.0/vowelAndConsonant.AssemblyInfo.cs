@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vowelAndConsonant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c957fa567d8732daea79f7215e59576485a9c92")]
 [assembly: System.Reflection.AssemblyProductAttribute("vowelAndConsonant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vowelAndConsonant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
