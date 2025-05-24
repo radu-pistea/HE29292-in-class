@@ -1,0 +1,3 @@
+[submodule "SmartHomeAssistant"]
+	path = SmartHomeAssistant
+	url = https://github.com/radu-pistea/SmartHomeAssistant.git
